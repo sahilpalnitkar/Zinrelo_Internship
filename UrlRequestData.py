@@ -1,7 +1,6 @@
 import requests
 import random
 
-
 class UrlRequestData:
     def __init__(self, url):
         self.url = url
