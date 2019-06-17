@@ -1,0 +1,8 @@
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 200, "minimum value": 0.428965, "average value": 0.47511625999999996, "maximum value": 1.465449}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.43577, "average value": 0.5078042800000002, "maximum value": 1.135743}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.434237, "average value": 0.47726708, "maximum value": 1.548385}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.432937, "average value": 0.4842502, "maximum value": 1.561819}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.431852, "average value": 0.4840757900000001, "maximum value": 1.607286}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.431812, "average value": 0.47731134000000003, "maximum value": 1.4945}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.426145, "average value": 0.48455657999999996, "maximum value": 1.583313}
+{"URL": "http://yoda.shopsocially.com/js/zrl_conf?merchant_id=0564638b30", "times hit": 100, "minimum value": 0.431166, "average value": 0.4867878000000001, "maximum value": 0.724435}
