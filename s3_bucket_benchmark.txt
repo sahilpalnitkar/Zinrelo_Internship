@@ -1,0 +1,4 @@
+{"URL": "https://zrlconf1.s3.amazonaws.com/b857a8dd91.js", "times hit": 100, "minimum value": 0.933573, "average value": 1.1164078100000001, "maximum value": 2.191296}
+{"URL": "https://zrlconf1.s3.amazonaws.com/b857a8dd91.js", "times hit": 150, "minimum value": 0.913282, "average value": 1.1514295533333334, "maximum value": 2.018104}
+{"URL": "https://zrlconf1.s3.amazonaws.com/b857a8dd91.js", "times hit": 200, "minimum value": 0.898767, "average value": 1.1290199599999997, "maximum value": 2.446592}
+{"URL": "https://zrlconf1.s3.amazonaws.com/b857a8dd91.js", "times hit": 250, "minimum value": 0.917533, "average value": 1.1545550559999995, "maximum value": 2.84379}

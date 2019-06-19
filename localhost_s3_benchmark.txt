@@ -1,0 +1,5 @@
+{"URL": "http://localhost:8000/oc_page.html", "times hit": 100, "minimum value": 0.001933, "average value": 0.013107950000000004, "maximum value": 0.390823}
+{"URL": "http://localhost:8000/oc_page.html", "times hit": 150, "minimum value": 0.002972, "average value": 0.011547073333333335, "maximum value": 0.37789}
+{"URL": "http://localhost:8000/oc_page.html", "times hit": 200, "minimum value": 0.002992, "average value": 0.010234240000000002, "maximum value": 0.395815}
+{"URL": "http://localhost:8000/oc_page.html", "times hit": 250, "minimum value": 0.003417, "average value": 0.009139716000000004, "maximum value": 0.345286}
+{"URL": "http://localhost:8000/oc_page.html", "times hit": 300, "minimum value": 0.002194, "average value": 0.00804124, "maximum value": 0.369109}
