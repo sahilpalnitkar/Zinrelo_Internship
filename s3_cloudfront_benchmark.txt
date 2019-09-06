@@ -1,4 +1,0 @@
-{"URL": "http://d3sdpo4zrpd3b.cloudfront.net/b857a8dd91.js", "times hit": 100, "minimum value": 0.054962, "average value": 0.08344926000000003, "maximum value": 0.390622}
-{"URL": "http://d3sdpo4zrpd3b.cloudfront.net/b857a8dd91.js", "times hit": 150, "minimum value": 0.050551, "average value": 0.07855468000000003, "maximum value": 0.39138}
-{"URL": "http://d3sdpo4zrpd3b.cloudfront.net/b857a8dd91.js", "times hit": 200, "minimum value": 0.052265, "average value": 0.07613868, "maximum value": 0.369029}
-{"URL": "http://d3sdpo4zrpd3b.cloudfront.net/b857a8dd91.js", "times hit": 250, "minimum value": 0.050533, "average value": 0.07465075600000003, "maximum value": 0.363166}
